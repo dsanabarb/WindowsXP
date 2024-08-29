@@ -5,4 +5,4 @@ For our final project on AED we decided to make a view of the Windows XP using t
 Authors:
   - [Diana Vitoria Silva Barbosa](https://github.com/dsanabarb)
   - [Danilo Oliveira Andrade](https://github.com/Dandradedev)
-  - Gustavo Vilas Boas Pereira
+  - [Gustavo Vilas Boas Pereira](https://github.com/gustavo-vb)
